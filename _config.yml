@@ -13,7 +13,7 @@ title                    : "SeongJae Ahn / Website"
 title_separator          : "-"
 name                     : &name "SeongJae Ahn"
 description              : &description "My portfolio"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jayahn17.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
