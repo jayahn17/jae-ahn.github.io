@@ -1,6 +1,6 @@
 ---
-title: "Root Applied Science"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "TAF Lab"
+excerpt: "  Autonomous Ocean Drone prototype D' <br/><img src='/images/TAF Lab_1.jpeg'>"
 collection: portfolio
 ---
 
